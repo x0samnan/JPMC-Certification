@@ -1,4 +1,3 @@
 # JPMC-Certification
-## By: Forage
-
+By: Forage
 Completed: 21st February, 2023
